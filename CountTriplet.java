@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/count-triplets-1/problem
 import java.util.*;
 public class CountTriplet{
 	public static long count(List<Long> arr,long r){
